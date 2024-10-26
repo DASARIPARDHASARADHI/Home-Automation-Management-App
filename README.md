@@ -1,15 +1,10 @@
-# classico
+# Classico
 
-A new Flutter project.
+This is the Flutter Cross App Development Project
 
-## Getting Started
+This Project is used for Managing the Multiple IOT Devices for Home Automation
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I have designed UI using Flutter Framework and used Firebase as the database.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
